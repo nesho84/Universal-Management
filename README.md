@@ -1,5 +1,5 @@
 # Universal-Management
-Office Management Software
+Office Management Software - Windows Application
 
 After some years I decided to Upload this project on GitHub and is totally free to use.
 Maybe it will help Someone to start with Programming.
