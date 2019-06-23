@@ -1,10 +1,10 @@
 # Universal-Management
 Office Management Software
 
-After some years I decided to Upload this project on GitHub and is Totally free to use.
-Maybe it will help Someone to start with Programming
+After some years I decided to Upload this project on GitHub and is totally free to use.
+Maybe it will help Someone to start with Programming.
 
-Note: It's a basic C# Project with MySQL Database and maybe you will find some bugs and errors
+Note: It's a basic C# Project with MySQL Database and UI Language is German, so maybe you will find some bugs and errors!
 
 To work on your Machine you need first to follow some Instructions bellow:
 1. A running Service on Localhost Apache and MySQL
