@@ -1,0 +1,554 @@
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\bin\Debug\Resources\no_profile_pic.png
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\bin\Debug\bin\Debug\kein_logo.png
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\bin\Debug\bin\Debug\no_profile_pic.png
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\bin\Debug\Universal_Management.exe.config
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\bin\Debug\Universal_Management.exe
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\bin\Debug\Universal_Management.pdb
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\bin\Debug\System.Deployment.dll
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\bin\Debug\System.DirectoryServices.dll
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\bin\Debug\System.Drawing.dll
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.About.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Login_Register.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.UM_Backup.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Bewerber.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Bewerber_Profile.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Bewerber_Profile_Report.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Bewerber_Report.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Bewerber_Status.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Dokumente.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Dokumente_Add_Folder.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Dokumente_Add_Path.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.FeierTage.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.FeierTage_Add.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.FeierTage_Update.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.FeierTage_Report.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Add.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Extra.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Extra_Report.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Profile_Report.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Table.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_View.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Home.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Login.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.M_Neu.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Add.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_DNr_Update.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Krankenstand_Add.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Krankenstand_Update.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Profile.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Profile_Report.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Report.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Status.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.MyMessageBox.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Notizen.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Notizen_Add.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Notizen_Report.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Notizen_Update.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Properties.Resources.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Rechnungen.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Stundenliste.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Add_Monthly.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Konto.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Konto_Report.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Report.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Termine.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Termine_Report.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Termine_View.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.UM_Settings.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.SplashScreen.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.UM_Maps.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Urlaube.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Urlaube_Add.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Urlaube_Report.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Urlaube_Report_New.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Urlaube_Update.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.csproj.GenerateResource.Cache
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\RdlCompile.cache
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\RdlCompile.compiled
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.exe
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.pdb
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.csprojResolveAssemblyReference.cache
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Daily_Report.resources
+C:\Users\Neshat-HP\documents\visual studio 2013\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Daily_Report_View.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\bin\Debug\Universal_Management.exe.config
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.exe
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.pdb
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\bin\Debug\Resources\no_profile_pic.png
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\bin\Debug\bin\Debug\kein_logo.png
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\bin\Debug\bin\Debug\no_profile_pic.png
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\bin\Debug\Universal_Management.exe
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\bin\Debug\Universal_Management.pdb
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\bin\Debug\Microsoft.CSharp.dll
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\bin\Debug\System.Data.DataSetExtensions.dll
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\bin\Debug\System.Deployment.dll
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\bin\Debug\System.DirectoryServices.dll
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\bin\Debug\System.Drawing.dll
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.csprojResolveAssemblyReference.cache
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.About.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Daily_Report.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Daily_Report_View.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Login_Register.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.UM_Backup.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Bewerber.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Bewerber_Profile.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Bewerber_Profile_Report.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Bewerber_Report.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Bewerber_Status.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Dokumente.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Dokumente_Add_Folder.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Dokumente_Add_Path.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.FeierTage.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.FeierTage_Add.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.FeierTage_Update.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.FeierTage_Report.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Add.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Extra.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Extra_Report.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Profile_Report.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Table.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_View.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Home.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Login.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.M_Neu.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Add.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_DNr_Update.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Krankenstand_Add.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Krankenstand_Update.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Profile.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Profile_Report.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Report.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Status.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.MyMessageBox.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Notizen.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Notizen_Add.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Notizen_Report.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Notizen_Update.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Properties.Resources.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Rechnungen.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Stundenliste.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Add_Monthly.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Konto.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Konto_Report.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Report.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Termine.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Termine_Report.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Termine_View.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.UM_Settings.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.SplashScreen.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.UM_Maps.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Urlaube.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Urlaube_Add.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Urlaube_Report.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Urlaube_Report_New.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Urlaube_Update.resources
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\Universal_Management.csproj.GenerateResource.Cache
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\RdlCompile.cache
+E:\HP Compaq 6510b Backup\User Neshat\C# Projects\Projects\Universal_Management\Universal_Management\obj\Debug\RdlCompile.compiled
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.About.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Daily_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Daily_Report_View.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Login_Register.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.UM_Backup.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Bewerber.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Bewerber_Profile.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Bewerber_Profile_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Bewerber_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Bewerber_Status.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Dokumente.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Dokumente_Add_Folder.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Dokumente_Add_Path.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.FeierTage.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.FeierTage_Add.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.FeierTage_Update.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.FeierTage_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Firmenbuch.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Add.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Extra.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Extra_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Profile_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Table.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_View.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Home.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Login.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.M_Neu.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Add.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_DNr_Update.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Krankenstand_Add.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Krankenstand_Update.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Profile.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Profile_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Status.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.MyMessageBox.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Notizen.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Notizen_Add.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Notizen_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Notizen_Update.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Properties.Resources.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Rechnungen.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Stundenliste.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Add_Monthly.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Konto.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Konto_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Termine.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Termine_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Termine_View.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.UM_Settings.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.SplashScreen.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.UM_Maps.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Urlaube.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Urlaube_Add.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Urlaube_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Urlaube_Report_New.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.Urlaube_Update.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.csproj.GenerateResource.cache
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.csproj.CoreCompileInputs.cache
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.exe
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.pdb
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\bin\Debug\Resources\no_profile_pic.png
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\bin\Debug\bin\Debug\kein_logo.png
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\bin\Debug\bin\Debug\no_profile_pic.png
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\bin\Debug\Universal_Management.exe.config
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\bin\Debug\Universal_Management.exe
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\bin\Debug\Universal_Management.pdb
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\bin\Debug\MySql.Data.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\bin\Debug\System.Deployment.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\bin\Debug\System.DirectoryServices.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\bin\Debug\System.Drawing.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\bin\Debug\Google.Protobuf.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\bin\Debug\MySql.Data.xml
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.exe.config
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_2015\Universal_Management\obj\Debug\Universal_Management.csproj.CopyComplete
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\bin\Debug\Resources\no_profile_pic.png
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\bin\Debug\bin\Debug\kein_logo.png
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\bin\Debug\bin\Debug\no_profile_pic.png
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\bin\Debug\Universal_Management.exe.config
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\bin\Debug\Universal_Management.exe
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\bin\Debug\Universal_Management.pdb
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\bin\Debug\MySql.Data.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\bin\Debug\System.Deployment.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\bin\Debug\System.DirectoryServices.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\bin\Debug\System.Drawing.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\bin\Debug\Google.Protobuf.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\bin\Debug\MySql.Data.xml
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.exe.config
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.About.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Daily_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Daily_Report_View.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Login_Register.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.UM_Backup.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Bewerber.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Bewerber_Profile.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Bewerber_Profile_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Bewerber_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Bewerber_Status.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Dokumente.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Dokumente_Add_Folder.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Dokumente_Add_Path.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.FeierTage.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.FeierTage_Add.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.FeierTage_Update.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.FeierTage_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Firmenbuch.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Add.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Extra.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Extra_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Profile_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Table.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_View.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Home.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Login.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.M_Neu.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Add.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_DNr_Update.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Krankenstand_Add.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Krankenstand_Update.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Profile.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Profile_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Status.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.MyMessageBox.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Notizen.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Notizen_Add.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Notizen_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Notizen_Update.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Properties.Resources.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Rechnungen.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Stundenliste.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Add_Monthly.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Konto.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Konto_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Termine.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Termine_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Termine_View.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.UM_Settings.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.SplashScreen.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.UM_Maps.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Urlaube.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Urlaube_Add.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Urlaube_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Urlaube_Report_New.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.Urlaube_Update.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.csproj.GenerateResource.cache
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.csproj.CoreCompileInputs.cache
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.csproj.CopyComplete
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.exe
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\CSharp_ALL_Projects(UM etc)\Universal_Management_Upgraded\Universal_Management\obj\Debug\Universal_Management.pdb
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\bin\Debug\Resources\no_profile_pic.png
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\bin\Debug\bin\Debug\kein_logo.png
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\bin\Debug\bin\Debug\no_profile_pic.png
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\bin\Debug\Universal_Management.exe.config
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\bin\Debug\Universal_Management.exe
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\bin\Debug\Universal_Management.pdb
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\bin\Debug\MySql.Data.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\bin\Debug\System.Deployment.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\bin\Debug\System.DirectoryServices.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\bin\Debug\System.Drawing.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\bin\Debug\Google.Protobuf.dll
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\bin\Debug\MySql.Data.xml
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.csprojAssemblyReference.cache
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.exe.config
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.About.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Daily_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Daily_Report_View.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Login_Register.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.UM_Backup.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Bewerber.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Bewerber_Profile.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Bewerber_Profile_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Bewerber_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Bewerber_Status.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Dokumente.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Dokumente_Add_Folder.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Dokumente_Add_Path.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.FeierTage.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.FeierTage_Add.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.FeierTage_Update.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.FeierTage_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Firmenbuch.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Add.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Extra.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Extra_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Profile_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Table.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_View.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Home.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Login.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.M_Neu.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Add.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_DNr_Update.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Krankenstand_Add.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Krankenstand_Update.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Profile.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Profile_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Status.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.MyMessageBox.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Notizen.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Notizen_Add.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Notizen_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Notizen_Update.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Properties.Resources.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Rechnungen.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Stundenliste.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Add_Monthly.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Konto.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Konto_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Termine.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Termine_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Termine_View.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.UM_Settings.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.SplashScreen.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.UM_Maps.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Urlaube.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Urlaube_Add.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Urlaube_Report.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Urlaube_Report_New.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Urlaube_Update.resources
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.csproj.GenerateResource.cache
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.csproj.CoreCompileInputs.cache
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.csproj.CopyComplete
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.exe
+C:\Users\Neshat\Desktop\CSharp_SQLite_Files\C#-All-Projects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.pdb
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\bin\Debug\Resources\no_profile_pic.png
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\bin\Debug\bin\Debug\kein_logo.png
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\bin\Debug\bin\Debug\no_profile_pic.png
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\bin\Debug\Universal_Management.exe.config
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\bin\Debug\Universal_Management.exe
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\bin\Debug\Universal_Management.pdb
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\bin\Debug\MySql.Data.dll
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\bin\Debug\System.Deployment.dll
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\bin\Debug\System.DirectoryServices.dll
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\bin\Debug\System.Drawing.dll
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\bin\Debug\Google.Protobuf.dll
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\bin\Debug\MySql.Data.xml
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.csprojAssemblyReference.cache
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.exe.config
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.About.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Daily_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Daily_Report_View.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Login_Register.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.UM_Backup.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Bewerber.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Bewerber_Profile.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Bewerber_Profile_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Bewerber_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Bewerber_Status.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Dokumente.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Dokumente_Add_Folder.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Dokumente_Add_Path.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.FeierTage.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.FeierTage_Add.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.FeierTage_Update.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.FeierTage_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Firmenbuch.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Add.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Extra.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Extra_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Profile_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Table.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_View.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Home.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Login.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.M_Neu.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Add.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_DNr_Update.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Krankenstand_Add.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Krankenstand_Update.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Profile.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Profile_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Status.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.MyMessageBox.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Notizen.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Notizen_Add.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Notizen_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Notizen_Update.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Properties.Resources.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Rechnungen.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Stundenliste.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Add_Monthly.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Konto.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Konto_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Termine.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Termine_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Termine_View.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.UM_Settings.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.SplashScreen.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.UM_Maps.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Urlaube.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Urlaube_Add.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Urlaube_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Urlaube_Report_New.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.Urlaube_Update.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.csproj.GenerateResource.cache
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.csproj.CoreCompileInputs.cache
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.csproj.CopyComplete
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.exe
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\obj\Debug\Universal_Management.pdb
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\bin\Debug\Resources\no_profile_pic.png
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\bin\Debug\Universal_Management.exe.config
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\bin\Debug\Universal_Management.exe
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\bin\Debug\Universal_Management.pdb
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\bin\Debug\MySql.Data.dll
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\bin\Debug\System.Deployment.dll
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\bin\Debug\System.DirectoryServices.dll
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\bin\Debug\System.Drawing.dll
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\bin\Debug\Google.Protobuf.dll
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\bin\Debug\MySql.Data.xml
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.exe.config
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.About.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Daily_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Daily_Report_View.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Login_Register.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.UM_Backup.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Bewerber.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Bewerber_Profile.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Bewerber_Profile_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Bewerber_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Bewerber_Status.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Dokumente.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Dokumente_Add_Folder.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Dokumente_Add_Path.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.FeierTage.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.FeierTage_Add.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.FeierTage_Update.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.FeierTage_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Add.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Extra.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Extra_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Profile_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_Table.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Firmenbuch_View.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Home.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Login.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.M_Neu.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Add.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_DNr_Update.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Krankenstand_Add.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Krankenstand_Update.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Profile.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Profile_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Mitarbeiter_Status.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.MyMessageBox.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Notizen.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Notizen_Add.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Notizen_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Notizen_Update.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Properties.Resources.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Rechnungen.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Stundenliste.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Add_Monthly.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Konto.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Konto_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Stundenliste_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Termine.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Termine_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Termine_View.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.UM_Settings.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.SplashScreen.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.UM_Maps.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Urlaube.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Urlaube_Add.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Urlaube_Report.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Urlaube_Report_New.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.Urlaube_Update.resources
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.csproj.GenerateResource.cache
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.csproj.CoreCompileInputs.cache
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.csproj.CopyComplete
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.exe
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.pdb
+C:\Users\Neshat\Desktop\CSharpProjectsAndTutorials\CSharpALLProjects\Universal_Management_2019\Universal_Management\Universal_Management\obj\Debug\Universal_Management.csprojAssemblyReference.cache
