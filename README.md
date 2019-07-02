@@ -2,15 +2,14 @@
 Office Management Software - Windows Application
 
 After some years I decided to Upload this project on GitHub and is totally free to use.
-Maybe it will help Someone to start with Programming.
-
-Note: It's a basic C# Project with MySQL Database and UI Language is German, so maybe you will find some bugs and errors!
 
 To work on your Machine you need first to follow some Instructions bellow:
 1. A running Service on Localhost Apache and MySQL
 2. Import the um_db.sql on your MySQL Database
 3. MySQL-User.txt is the file for the User permission on MySQL Admin or you change it whatever you want.
-4. Open the Project with Visual Studio and run it :)
+4. Open the Project with Visual Studio and run it.
+
+Note: It's a C# Project with MySQL Database and UI Language is German, so maybe you will find some bugs and errors!
 
 I hope you enjoy it.
 
